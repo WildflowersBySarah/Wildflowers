@@ -1,0 +1,31 @@
+*{
+    background-color: #333333;
+    color: #ffffff;
+    font-family: 'Dosis', sans-serif;
+}
+body{
+    height: 100vh;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+body::after {
+    content: "";
+    background: url(Images/Wildflowers-original.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.2;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;  
+    z-index: 1;
+}
+section{
+    height: 100vh;
+}
+section img{
+    margin-top: 50px;
+    height: 200px;
+}
