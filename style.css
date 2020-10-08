@@ -1,5 +1,4 @@
 *{
-    background-color: #333333;
     color: #ffffff;
     font-family: 'Dosis', sans-serif;
 }
@@ -11,10 +10,10 @@ body{
 }
 body::after {
     content: "";
-    background: url(Images/Wildflowers-original.jpg);
+    background-image: url(Images/WildflowersBackground.png);
+    background-color: #333333;
     background-repeat: no-repeat;
     background-position: center;
-    opacity: 0.2;
     top: 0;
     left: 0;
     bottom: 0;
@@ -24,6 +23,7 @@ body::after {
 }
 section{
     height: 100vh;
+    z-index: 2;
 }
 section img{
     margin-top: 20px;
@@ -31,4 +31,7 @@ section img{
 }
 section p{
     font-size: larger;
+}
+footer{
+    z-index: 3;
 }
