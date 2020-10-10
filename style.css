@@ -56,7 +56,7 @@ section p{
     text-decoration: none;
     border-radius: 10%;
 }
-.social .fa:hover {
+.fa:hover {
     opacity: 0.5;
 }
 .fa-facebook {
