@@ -1,0 +1,17 @@
+Static Website
+- Free, no additional cost 
+- site to display info only
+- Free means less to no features and more restrictions in functionality
+- No settings functions, so you cannot update images unless you change code and this could lead to breaking the site if you accidentally delete a > , or a . 
+- No Shopping front online
+- No Database to hold customer details 
+- Form is just enquiry form that sends an email to info@wildflowerbysarah.net
+
+WordPress 
+- Cost $45USD for the cheapest plan for 12 months or $90USD for 24 months, there is a deal on with domain.com "HALLOWEEN2020" get 25% off (ends 31.10.2020)
+- setup page to change images and text if you need
+- Shop front that you can link to social media, so when someone clicks on image in Insta they go to your site and purchase online 
+- form to collect more details than just enquiry
+- blog management, WordPress was initially made for bloggers 
+- comes with database 
+- unlimited storage 
